@@ -7,6 +7,10 @@ So, as alternative, I decide to use Python when I plot the data.
 
 ## 2-Dimension Data
 <p align="center">
+  <img width="1494" height="802" alt="image" src="https://github.com/user-attachments/assets/2396f09a-0d0b-40d0-b91d-f4f1ba6d6872" /><br>
+  <strong>XRD peak of NCM cathode</strong>
+</p> 
+<p align="center">
   <img width="724" height="393" alt="2chart" src="https://github.com/user-attachments/assets/f440ae28-c464-4c93-b91c-c8943eab0a79" /><br>
   <strong>Plotbar</strong>
 </p>
