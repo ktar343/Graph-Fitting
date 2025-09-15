@@ -5,9 +5,9 @@ Created on Thu Aug  8 2025
 G(T,P,n) 자유에너지를 임의 난수 데이터로 3D 그래프 표시
 """
 
-import random
-import numpy as np
-import matplotlib.pyplot as plt
+import random #random function
+import numpy as np # formation of 난수
+import matplotlib.pyplot as plt 
 from mpl_toolkits.mplot3d import Axes3D  # 3D 그리기 위해 필요
 
 # ------------------------------
@@ -43,3 +43,4 @@ cbar = plt.colorbar(sc, ax=ax)
 cbar.set_label('Gibbs Free Energy (kJ)')
 
 plt.show()
+
